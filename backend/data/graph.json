@@ -1,0 +1,23 @@
+{
+  "A": [
+    { "to": "B", "distance": 5 },
+    { "to": "C", "distance": 10 }
+  ],
+  "B": [
+    { "to": "D", "distance": 2 },
+    { "to": "E", "distance": 8 }
+  ],
+  "C": [
+    { "to": "F", "distance": 3 }
+  ],
+  "D": [
+    { "to": "G", "distance": 10 }
+  ],
+  "E": [
+    { "to": "G", "distance": 2 }
+  ],
+  "F": [
+    { "to": "G", "distance": 7 }
+  ],
+  "G": []
+}
